@@ -13,7 +13,7 @@ Sou desenvolvedor full-stack e apaixonado por resolver problemas usando tecnolog
 - **Outras ferramentas**: VS Code, Postman, Figma, photoshop
 
 ## 🚀 Projetos Recentes
-- **([Matematica no metro](https://github.com/IMT-PII-2-Semestre/matematica-no-metro))** - um website para o "Matemática no Metrô", projeto realizado pelo Instituto de Engenharia e pelo Metrô de São Paulo, com apoio do Instituto Mauá de Tecnologia.
+- **[Matematica no metro](https://github.com/IMT-PII-2-Semestre/matematica-no-metro)** - um website para o "Matemática no Metrô", projeto realizado pelo Instituto de Engenharia e pelo Metrô de São Paulo, com apoio do Instituto Mauá de Tecnologia.
 - **[Calculadora de investimento](https://github.com/MuriloMKA/calculadora_investimento)** - Descrição do projeto 2 e tecnologias utilizadas.
 
 ## 📊 GitHub Stats
