@@ -26,5 +26,5 @@ Atualmente estou estudando:
 - **React Native para desenvolvimento mobile e me aprofundando meus conhecimentos em React.js e Node.js**
 
 ## 📫 Como me encontrar
-- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/murilo-kaspar-de-andrade-66034a2b7/)
+- **LinkedIn**: [Murilo Kaspar](https://www.linkedin.com/in/murilo-kaspar-de-andrade-66034a2b7/)
 - **Email**: murilao06@hotmail.com
